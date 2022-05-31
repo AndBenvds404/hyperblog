@@ -1,3 +1,6 @@
 hola mankos
 
 archivo editado en VS code
+
+cambio 3 arhivo txt
+
