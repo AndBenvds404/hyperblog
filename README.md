@@ -21,7 +21,7 @@ Proyecto para cargar los códigos del proyecto backend pasantes
 17. Desplejar la base de datos y crear una base de datos con el nombre "devsecops" que esta definido proyecto "pasantes_back" en el archivo "application.properties" (modificar el nombre opcional)
 18. En la base de datos creada (devsecops), diriguirse a la pestaña "Schemas" y creamos un nuevo esquema con el nombre "Andres", este atributo esta definido en las entidades del proyecto en la notacion @Table (modificar el nombre opcional)
 19. 
-## Ejecución del proyecto
+## Ejecución del proyecto y consumo de servicios
 
 13. Ejecutar el proyecto "pasantes_back"
 14. Abrir el software Insomnia para el testeo de los Servicios
@@ -37,19 +37,19 @@ Proyecto para cargar los códigos del proyecto backend pasantes
 
 19. En caso de errores con el token, podemos ejecutar los curls en una terminal y copiar el "access_token"
 
-curl para tokens
-
-empresa:
-
-curl -k -X POST https://localhost:9443/oauth2/token -d "grant_type=client_credentials" -H"Authorization: Basic dThzeDBaN1hCNWY5cmUzSkpmOUlnMFV5WTFFYTpCYzdTZEgyZVM5azRHajV2QjJPQzl3Z2VQS29h"
-
-departamento:
-curl -k -X POST https://localhost:9443/oauth2/token -d "grant_type=client_credentials" -H"Authorization: Basic dnZXV0J6ZkVQOW96SkVKUGRYV3Q0dVVjUElBYTpoR2s0QW9jUVAyRUdfSk5Fb2FxN3J4Um5YZ2th"
-
-empleado:
-curl -k -X POST https://localhost:9443/oauth2/token -d "grant_type=client_credentials" -H"Authorization: Basic aHFmQ0ZJbzd2OVpiU1hqOVRsUFRZbVl3SXdzYTpqZlViNGdOeURPbmNmTmw4VGFRNUFJV0pEcllh"
-
-departamento_empleado:
-curl -k -X POST https://localhost:9443/oauth2/token -d "grant_type=client_credentials" -H"Authorization: Basic ZTR0OU9yT0drZk9FTmlTcW9jY2pxcXNoY0ZRYTptUVdFSGVGSGduRHhpckpIWGZXM2tGekgzV0Fh" 
-
+    curl para tokens
+    
+    empresa:
+    
+    curl -k -X POST https://localhost:9443/oauth2/token -d "grant_type=client_credentials" -H"Authorization: Basic dThzeDBaN1hCNWY5cmUzSkpmOUlnMFV5WTFFYTpCYzdTZEgyZVM5azRHajV2QjJPQzl3Z2VQS29h"
+    
+    departamento:
+    curl -k -X POST https://localhost:9443/oauth2/token -d "grant_type=client_credentials" -H"Authorization: Basic dnZXV0J6ZkVQOW96SkVKUGRYV3Q0dVVjUElBYTpoR2s0QW9jUVAyRUdfSk5Fb2FxN3J4Um5YZ2th"
+    
+    empleado:
+    curl -k -X POST https://localhost:9443/oauth2/token -d "grant_type=client_credentials" -H"Authorization: Basic aHFmQ0ZJbzd2OVpiU1hqOVRsUFRZbVl3SXdzYTpqZlViNGdOeURPbmNmTmw4VGFRNUFJV0pEcllh"
+    
+    departamento_empleado:
+    curl -k -X POST https://localhost:9443/oauth2/token -d "grant_type=client_credentials" -H"Authorization: Basic ZTR0OU9yT0drZk9FTmlTcW9jY2pxcXNoY0ZRYTptUVdFSGVGSGduRHhpckpIWGZXM2tGekgzV0Fh" 
+    
 20. Volver a Insomnia, seleccionar el servicio y en la pestaña de "AUTH TYPE" selecionar "Bearer Token" y pegar el "access_token" en el campo "TOKEN" y hacer clic en el boton "send"
