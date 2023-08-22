@@ -55,10 +55,10 @@ Proyecto para cargar los códigos del proyecto backend pasantes
     curl -k -X POST https://localhost:9443/oauth2/token -d "grant_type=client_credentials" -H"Authorization: Basic ZTR0OU9yT0drZk9FTmlTcW9jY2pxcXNoY0ZRYTptUVdFSGVGSGduRHhpckpIWGZXM2tGekgzV0Fh" 
     
 20. Volver a Insomnia, seleccionar el servicio y en la pestaña de "AUTH TYPE" selecionar "Bearer Token" y pegar el "access_token" en el campo "TOKEN" y hacer clic en el boton "send"
-
+    
 ## Documentación en Swagger
 
-21. Abrir el archivo "application.properties" y colocar la ruta para la interfaz swagger: "springdoc.swagger-ui.path=/swagger-ui.html"
+21. Abrir el archivo "application.properties" y colocar la configuracion de la ruta para la interfaz swagger: "springdoc.swagger-ui.path=/swagger-ui.html"
     
 22. La página de la interfaz de usuario de Swagger estará disponible en http://server:port/context-path/swagger-ui.html
     
