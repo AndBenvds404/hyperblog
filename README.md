@@ -5,16 +5,16 @@
 <span>![</span><span>Aquí la descripción de la imagen por si no carga</span><span>]</span><span>(</span><span>https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/ImagenV1.png</span><span>)</span>
 &#x25CF; asdasdasdasdasd adas das
 Proyecto para cargar los códigos del proyecto backend pasantes 
-![loge](https://github.com/AndBenvds404/hyperblog/assets/105686446/7fcf3d63-7acf-41af-bb8e-21803ada8a27)
-![notificacion](https://github.com/AndBenvds404/hyperblog/assets/105686446/bcb7c84c-d2f1-44fc-b94b-ea3080d9ed14)
-![microfono](https://github.com/AndBenvds404/hyperblog/assets/105686446/bfd6a914-c36b-4a49-8678-fae54f42d55c)
-![menu](https://github.com/AndBenvds404/hyperblog/assets/105686446/698b7e51-72de-4e9a-ba3f-81e019d4c69d)
-![marvel_personajes](https://github.com/AndBenvds404/hyperblog/assets/105686446/7d08f628-ec37-4e0b-b56b-654f2247a711)
-![log_in](https://github.com/AndBenvds404/hyperblog/assets/105686446/36f43bd6-cd14-424a-9f73-11b098705e30)
-![detalle_personaje](https://github.com/AndBenvds404/hyperblog/assets/105686446/0af86ac6-262a-41d3-896b-ab661cf271e1)
-![chatGpt](https://github.com/AndBenvds404/hyperblog/assets/105686446/ae6022e8-41eb-43ba-94cc-11943a0403f0)
-![biometrico](https://github.com/AndBenvds404/hyperblog/assets/105686446/115c6998-fb87-4173-8a8b-b00a2fc1a1f3)
-![bienvenido_marvel](https://github.com/AndBenvds404/hyperblog/assets/105686446/722556eb-431a-42a2-92a2-96d190fe7bf7)
+
+![notificacion](https://github.com/AndBenvds404/hyperblog/assets/105686446/08016fc1-59e1-4380-9587-49d8602a385b)
+![microfono](https://github.com/AndBenvds404/hyperblog/assets/105686446/8d547867-0c94-4858-a365-3187f69b7e5c)
+![menu](https://github.com/AndBenvds404/hyperblog/assets/105686446/185def73-63fc-434a-b439-7a46db5af2dd)
+![marvel_personajes](https://github.com/AndBenvds404/hyperblog/assets/105686446/aff2e878-e31b-458c-ba80-71104a4d5679)
+![log_in](https://github.com/AndBenvds404/hyperblog/assets/105686446/06a83fe1-31d9-451b-a822-fd65205d5f03)
+![detalle_personaje](https://github.com/AndBenvds404/hyperblog/assets/105686446/c4b2d509-c0c4-4582-b918-6fa984c48eb3)
+![chatGpt](https://github.com/AndBenvds404/hyperblog/assets/105686446/ffc3f1e8-f47b-4f43-81f4-7435255ad17d)
+![biometrico](https://github.com/AndBenvds404/hyperblog/assets/105686446/5f6f1c69-92aa-497e-b983-26cd75b6d416)
+![bienvenido_marvel](https://github.com/AndBenvds404/hyperblog/assets/105686446/c81a62d3-c59b-4b75-b51d-e2ac66feb3d1)
 
 
 ## Configuración de proyecto
