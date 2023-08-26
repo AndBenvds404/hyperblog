@@ -74,4 +74,4 @@ Proyecto para cargar los códigos del proyecto backend pasantes
     puerto: El puerto del servidor
     
     context-path: la ruta de contexto de la aplicación (opcional)
-
+!(https://github.com/AndBenvds404/Disp_Moviles/blob/main/capturas/bienvenido_marvel.png)
