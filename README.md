@@ -1,9 +1,9 @@
   
 
 # pasantes_back
-&#x25CF; Firebase Authentication
-&#x25CF; DataStore
-&#x25CF; Intent
+### &#x25CF; Firebase Authentication
+### &#x25CF; DataStore
+### &#x25CF; Intent
 &#x25CF; Coroutines
 &#x25CF; Picasso
 &#x25CF; Notification
